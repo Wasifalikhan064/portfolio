@@ -20,7 +20,7 @@ import postmanLogo from './assets/tech_logo/postman.png';
 import mcLogo from './assets/tech_logo/mc.png';
 
 // Experience Section Logo's
-import yinsonLogo from './assets/company_logo/yinson-logo.png';
+import yinsonLogo from './assets/work_logo/tecnico.jpeg';
 import aqibLogo from './assets/company_logo/aqib-logo.png'
 import zakrotixLogo from './assets/company_logo/zak.png'
 
@@ -85,7 +85,7 @@ export const SkillsInfo = [
       id: 0,
       img: yinsonLogo,
       role: "Fullstack Developer",
-      company: "Yinson",
+      company: "Tecnico",
       date: "Feb 2025 - April 2025",
       desc: "Contractual:Developed dynamic and scalable web applications using the MERN stack, handling both frontend and backend development. Collaborated with cross-functional teams to build responsive UI, implement RESTful APIs, and optimize application performance in an agile environment.",
       skills: [
