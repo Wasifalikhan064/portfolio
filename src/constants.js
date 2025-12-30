@@ -179,7 +179,7 @@ export const SkillsInfo = [
       image: csprepLogo,
       tags: ["React JS", "Node.js", "MongoDB", "Express Js", "Redux tool kit", " tailwind CSS"],
       github: "https://github.com/Wasifalikhan064/Maiden",
-      webapp: "https://mernwexa.onrender.com/",
+      webapp: "https://github.com/Wasifalikhan064/Maiden",
     },
     {
       id: 2,
@@ -198,7 +198,7 @@ export const SkillsInfo = [
        "This is a full-stack chat application developed using the MERN stack (MongoDB, Express.js, React.js, Node.js). The app allows users to register, login, chat , send files i.e JPG. It includes authentication using JWT tokens, protected routes.",image: npmLogo,
        tags: ["React JS", "Node.js", "MongoDB", "Express Js","Socket io"],
       github: "https://github.com/Wasifalikhan064/Hood",
-      webapp: "https://chathood.onrender.com/signup",
+      webapp: "https://github.com/Wasifalikhan064/Hood",
     },
     {
       id: 4,
@@ -209,7 +209,7 @@ export const SkillsInfo = [
       image: taskremLogo,
       tags: ["ReactJs","Redux Toolkit" ,"Gemini Ai Api","Tailwind CSS"],
       github: "https://github.com/Wasifalikhan064/InvoiceManager",
-      webapp: "https://swipe-assignment-tmon.onrender.com/",
+      webapp: "https://github.com/Wasifalikhan064/InvoiceManager",
     },
     {
       id: 5,
@@ -219,6 +219,6 @@ export const SkillsInfo = [
       image: webverLogo,
       tags: ["React JS", "Node.js", "MongoDB","Open Ai","Twilio"],
       github: "https://github.com/Wasifalikhan064/Ai-call",
-      webapp: "https://ai-call-1.onrender.com/",
+      webapp: "https://github.com/Wasifalikhan064/Ai-call",
     },
   ];  
